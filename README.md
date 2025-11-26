@@ -1,3 +1,10 @@
+## What this is
+Cognitive Flow Body is a conceptual framework for reasoning about
+meaning-space, dimensional projection (5D → 4D → 3D),
+and cognitive flow as a structure rather than an algorithm.
+
+This repository is a reference anchor, not a finished product.
+
 # **Cognitive Flow Body (지동체, 知動體)**
 
 ### **5차원 Flow 기반 인지·실체·인과 구조의 과학·기술적 정의서 (Science/Tech Edition)**
